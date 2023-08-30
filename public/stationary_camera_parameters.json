@@ -1,0 +1,9 @@
+ {
+	 "focus_distance": "2.0",
+	 "shutter_speed": "10000000",
+	 "iso": "800",
+	 "wb_balance": "70",
+	 "capture_per_sec": "1",
+	 "output_size": "720x480",
+     "output_rotation": "0"
+ }
